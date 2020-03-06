@@ -1,2 +1,2 @@
 # xhr
-XML HTTP Request connections
+XML HTTP Request connections.
